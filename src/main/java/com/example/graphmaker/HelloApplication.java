@@ -5,6 +5,7 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Group;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
+import javafx.scene.image.Image;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.shape.Line;
 import javafx.stage.Stage;
@@ -22,6 +23,8 @@ public class HelloApplication extends Application {
         //root.getChildren().add(line);
         stage.setResizable(false);
         stage.setTitle("Graph Maker");
+        Image icon=new Image(getClass().getResource("icon.png").toExternalForm());
+        stage.getIcons().add(icon);
         stage.setScene(scene);
         stage.show();
     }
