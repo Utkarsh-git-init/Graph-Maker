@@ -7,6 +7,11 @@ Features:
 
 ---Plots the corresponding line on a graph.
 
+
+<img src="src/main/resources/com/example/graphmaker/Equation.png" width="500" />
+<img src="src/main/resources/com/example/graphmaker/graph.png" width="500" />
+
+
 How to Run:
 
 (1).Windows (Installer):
