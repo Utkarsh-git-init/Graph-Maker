@@ -9,7 +9,7 @@ Features:
 
 
 <img src="src/main/resources/com/example/graphmaker/Equation.png" width="600" />
-<img src="src/main/resources/com/example/graphmaker/graph.png" width="600" />
+<img src="src/main/resources/com/example/graphmaker/Graph.png" width="600" />
 
 
 How to Run:
