@@ -8,8 +8,8 @@ Features:
 ---Plots the corresponding line on a graph.
 
 
-<img src="src/main/resources/com/example/graphmaker/Equation.png" width="500" />
-<img src="src/main/resources/com/example/graphmaker/graph.png" width="500" />
+<img src="src/main/resources/com/example/graphmaker/Equation.png" width="600" />
+<img src="src/main/resources/com/example/graphmaker/graph.png" width="600" />
 
 
 How to Run:
